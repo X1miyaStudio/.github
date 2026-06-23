@@ -11,7 +11,7 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-7CFC00?style=for-the-badge&logo=modrinth&logoColor=111111)](https://modrinth.com/organization/x1miyastudio)
 [![YouTube](https://img.shields.io/badge/YouTube-7CFC00?style=for-the-badge&logo=youtube&logoColor=111111)](https://www.youtube.com/@X1miyaStudio)
 [![Telegram](https://img.shields.io/badge/Telegram-7CFC00?style=for-the-badge&logo=telegram&logoColor=111111)](https://t.me/X1miyaStudio)
-[![Minecraft Inside](https://img.shields.io/badge/Minecraft_Inside-7CFC00?style=for-the-badge&logo=minecraft&logoColor=111111)](https://minecraft-inside.ru/user/HimijaStudio)
+[![Minecraft Inside](https://img.shields.io/badge/Minecraft_Inside-7CFC00?style=for-the-badge&logo=minecraft&logoColor=111111)](https://minecraft-inside.ru/user/X1miyaStudio)
 
 </div>
 
