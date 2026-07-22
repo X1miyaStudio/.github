@@ -7,12 +7,11 @@
 ### Worlds with identity. Systems with purpose. Stories with atmosphere.
 
 **Independent creative studio building Minecraft projects, experimental systems, and original worlds at the intersection of science, philosophy, and art.**
-
-[![Modrinth](https://img.shields.io/badge/Modrinth-7CFC00?style=for-the-badge&logo=modrinth&logoColor=111111)](https://modrinth.com/organization/x1miyastudio)
 [![YouTube](https://img.shields.io/badge/YouTube-7CFC00?style=for-the-badge&logo=youtube&logoColor=111111)](https://www.youtube.com/@X1miyaStudio)
 [![Telegram](https://img.shields.io/badge/Telegram-7CFC00?style=for-the-badge&logo=telegram&logoColor=111111)](https://t.me/X1miyaStudio)
+[![Modrinth](https://img.shields.io/badge/Modrinth-7CFC00?style=for-the-badge&logo=modrinth&logoColor=111111)](https://modrinth.com/organization/x1miyastudio)
 [![Minecraft Inside](https://img.shields.io/badge/Minecraft_Inside-7CFC00?style=for-the-badge&logo=minecraft&logoColor=111111)](https://minecraft-inside.ru/user/X1miyaStudio)
-
+[![Planet Minecraft](https://img.shields.io/badge/Planet_Minecraft-7CFC00?style=for-the-badge&logo=minecraft&logoColor=111111)](https://www.planetminecraft.com/member/x1miyastudio/)
 </div>
 
 ---
