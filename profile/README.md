@@ -12,6 +12,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-7CFC00?style=for-the-badge&logo=telegram&logoColor=111111)](https://t.me/X1miyaStudio)
 [![Discord](https://img.shields.io/badge/Discord-7CFC00?style=for-the-badge&logo=discord&logoColor=111111)](https://discord.gg/pwk6X8ecNJ)
 [![Modrinth](https://img.shields.io/badge/Modrinth-7CFC00?style=for-the-badge&logo=modrinth&logoColor=111111)](https://modrinth.com/organization/x1miyastudio)
+[![CurseForge](https://img.shields.io/badge/CurseForge-7CFC00?style=for-the-badge&logo=curseforge&logoColor=111111)](https://www.curseforge.com/members/x1miyastudio/projects)
 [![Minecraft Inside](https://img.shields.io/badge/📦_Minecraft_Inside-7CFC00?style=for-the-badge)](https://minecraft-inside.ru/user/X1miyaStudio)
 [![Planet Minecraft](https://img.shields.io/badge/🌍_Planet_Minecraft-7CFC00?style=for-the-badge)](https://www.planetminecraft.com/member/x1miyastudio/)
 </div>
@@ -53,6 +54,7 @@ Every project should have its own identity. We combine technical design with vis
 ### Follow the studio
 
 [Modrinth](https://modrinth.com/organization/x1miyastudio) ·
+[CurseForge](https://www.curseforge.com/members/x1miyastudio/projects) ·
 [YouTube](https://www.youtube.com/@X1miyaStudio) ·
 [Telegram](https://t.me/X1miyaStudio) ·
 [Minecraft Inside](https://minecraft-inside.ru/user/HimijaStudio)
