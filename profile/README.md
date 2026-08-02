@@ -57,7 +57,7 @@ Every project should have its own identity. We combine technical design with vis
 [CurseForge](https://www.curseforge.com/members/x1miyastudio/projects) ·
 [YouTube](https://www.youtube.com/@X1miyaStudio) ·
 [Telegram](https://t.me/X1miyaStudio) ·
-[Minecraft Inside](https://minecraft-inside.ru/user/HimijaStudio)
+[Minecraft Inside](https://minecraft-inside.ru/user/X1miyaStudio)
 
 **Contact:** [x1miyastudio@gmail.com](mailto:x1miyastudio@gmail.com)
 
