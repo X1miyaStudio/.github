@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF88,85:064E3B,100:0D1117&height=220&section=header&text=X1miyaStudio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Worlds%20with%20identity%20%C2%B7%20Systems%20with%20purpose%20%C2%B7%20Stories%20with%20atmosphere&descSize=17&descAlignY=62&descColor=A7F3D0" width="100%" alt="X1miyaStudio Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF88,85:064E3B,100:0D1117&height=220&section=header&text=X1miyaStudio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Worlds%20with%20identity%20%C2%B7%20Systems%20with%20purpose%20%C2%B7%20Stories%20with%20atmosphere&descSize=17&descAlignY=62&descColor=A7F3D0\" width="100%" alt="X1miyaStudio Header" />
 
 <p align="center">
   <b>Независимая авторская лаборатория и креативная студия.</b><br/>
@@ -65,7 +65,10 @@
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
         <a href="https://modrinth.com/datapack/lactose-intolerance">
-          <img src="https://img.shields.io/badge/Modrinth-Verified-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+          <img src="https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+        </a>
+        <a href="https://modrinth.com/datapack/lactose-intolerance-ru">
+          <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
       </p>
       <p>Биохимическая система пищеварения в Minecraft: реакции организма, фазы адаптации, выработка толерантности, безлактозные рецепты и кастомные ачивки.</p>
@@ -77,7 +80,10 @@
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
         <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics">
-          <img src="https://img.shields.io/badge/Modrinth-Verified-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+          <img src="https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+        </a>
+        <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics-ru">
+          <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
       </p>
       <p>Замена стандартного дропа на объемные 3D-модели Item Display с естественной физикой укладки на поверхность, защитой от деспавна и ключом XS Lock Key.</p>
