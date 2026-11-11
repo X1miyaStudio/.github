@@ -70,6 +70,9 @@
         <a href="https://modrinth.com/datapack/lactose-intolerance-ru">
           <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/lactose-digestion-milk-survival-mechanics">
+          <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+        </a>
       </p>
       <p>Биохимическая система пищеварения в Minecraft: реакции организма, фазы адаптации, выработка толерантности, безлактозные рецепты и кастомные ачивки.</p>
     </td>
@@ -85,6 +88,9 @@
         <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics-ru">
           <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics">
+          <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+        </a>
       </p>
       <p>Замена стандартного дропа на объемные 3D-модели Item Display с естественной физикой укладки на поверхность, защитой от деспавна и ключом XS Lock Key.</p>
     </td>
@@ -95,6 +101,12 @@
       <p align="center">
         <a href="https://github.com/X1miyaStudio/Better-Blast-Furnuce">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://modrinth.com/datapack/better-blast-furnace">
+          <img src="https://img.shields.io/badge/Modrinth-Download-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/better-blast-furnace-x1miyastudio">
+          <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
         </a>
       </p>
       <p>Органичное расширение ванильной плавильной печи: 46 логичных высокотемпературных рецептов плавки металлов, сплавов и строительных материалов.</p>
