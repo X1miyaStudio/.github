@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF88,85:064E3B,100:0D1117&height=220&section=header&text=X1miyaStudio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Worlds%20with%20identity%20%C2%B7%20Systems%20with%20purpose%20%C2%B7%20Stories%20with%20atmosphere&descSize=17&descAlignY=62&descColor=A7F3D0\" width="100%" alt="X1miyaStudio Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF88,85:064E3B,100:0D1117&height=220&section=header&text=X1miyaStudio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Worlds%20with%20identity%20%C2%B7%20Systems%20with%20purpose%20%C2%B7%20Stories%20with%20atmosphere&descSize=17&descAlignY=62&descColor=A7F3D0" width="100%" alt="X1miyaStudio Header" />
 
 <p align="center">
   <b>Независимая авторская лаборатория и креативная студия.</b><br/>
