@@ -65,10 +65,7 @@
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
         <a href="https://modrinth.com/datapack/lactose-intolerance">
-          <img src="https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
-        </a>
-        <a href="https://modrinth.com/datapack/lactose-intolerance-ru">
-          <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
         <a href="https://www.curseforge.com/minecraft/data-packs/lactose-digestion-milk-survival-mechanics">
           <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
@@ -83,10 +80,7 @@
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
         <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics">
-          <img src="https://img.shields.io/badge/Modrinth-EN-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
-        </a>
-        <a href="https://modrinth.com/datapack/visual-drops-and-cosmetics-ru">
-          <img src="https://img.shields.io/badge/Modrinth-RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
         </a>
         <a href="https://www.curseforge.com/minecraft/data-packs/visual-drops-cosmetics">
           <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
@@ -117,8 +111,17 @@
         <a href="https://github.com/X1miya/Secret-Hidden-Buttons">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
+        <a href="https://www.curseforge.com/minecraft/worlds/secret-hidden-buttons">
+          <img src="https://img.shields.io/badge/CurseForge-Worlds-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+        </a>
+        <a href="https://www.planetminecraft.com/project/secret-hidden-buttons-1-20-4/">
+          <img src="https://img.shields.io/badge/Planet_Minecraft-Map-2ECC71?style=flat-square" />
+        </a>
+        <a href="https://minecraft-inside.ru/166663/">
+          <img src="https://img.shields.io/badge/Minecraft_Inside-RU-brightgreen?style=flat-square" />
+        </a>
       </p>
-      <p>Приключенческая карта поиска скрытых кнопок с 5 отдельными паками риггинга и анимаций Animated Java, механикой зрительной трубы и диалогами с NPC.</p>
+      <p>Приключенческая карта поиска скрытых кнопок (v2.2, Minecraft 1.21.11, EN + RU) с 5 отдельными паками риггинга и анимаций Animated Java, механикой зрительной трубы и диалогами с NPC.</p>
     </td>
   </tr>
   <tr>
@@ -128,17 +131,40 @@
         <a href="https://github.com/X1miya/combination">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
+        <a href="https://www.curseforge.com/minecraft/worlds/combination">
+          <img src="https://img.shields.io/badge/CurseForge-Worlds-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+        </a>
+        <a href="https://minecraft-inside.ru/maps/168088-kombinaciya.html">
+          <img src="https://img.shields.io/badge/Minecraft_Inside-RU-brightgreen?style=flat-square" />
+        </a>
       </p>
-      <p>Логическая головоломка на запоминание последовательностей с кастомной скорборд-математикой, анимациями и ветками достижений.</p>
+      <p>Логическая карта-головоломка на запоминание последовательностей (v1.2.1, Minecraft 1.21.11, EN + RU) с кастомной скорборд-математикой, анимациями и ветками достижений.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">💥 Explosion Item</h3>
+      <p align="center">
+        <a href="https://github.com/X1miyaStudio/Explosion-Item">
+          <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://modrinth.com/datapack/explosion-item">
+          <img src="https://img.shields.io/badge/Modrinth-EN_%2B_RU-00AF5C?style=flat-square&logo=modrinth&logoColor=white" />
+        </a>
+        <a href="https://www.curseforge.com/minecraft/data-packs/explosion-item">
+          <img src="https://img.shields.io/badge/CurseForge-Download-F16436?style=flat-square&logo=curseforge&logoColor=white" />
+        </a>
+      </p>
+      <p>Нестабильный лут (v2, Minecraft 1.21.11, EN + RU): предметы тикают с растущей частотой, отсчитывают таймер и зрелищно детонируют при срабатывании или в воде.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">🌀 Chemistry Teleport</h3>
       <p align="center">
         <a href="https://github.com/X1miya/chemistry_teleport">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
       </p>
-      <p>Кинематографичный портал с покадровой VFX-анимацией затягивания (200 кадров) и звуковым дизайном для видео «День №7 ФИНАЛ».</p>
+      <p align="center">Кинематографичный портал с покадровой VFX-анимацией затягивания (200 кадров) и звуковым дизайном для видео «День №7 ФИНАЛ».</p>
     </td>
   </tr>
 </table>
@@ -149,7 +175,6 @@
 
 ```
 ├── 🌧 Acid Rain ---------- Агрессивная погода, коррозия экипировки и химзащита
-├── 💥 Explosion Item ------ Нестабильный лут с прогрессивной детонацией
 ├── 🎒 QuickStackPlus ------ Мгновенное складирование предметов в сундуки
 └── 💎 Artisans Sockets ---- Постоянные гнезда и инкрустация камней в снаряжение
 ```
