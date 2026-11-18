@@ -3,8 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:00FF88,85:064E3B,100:0D1117&height=220&section=header&text=X1miyaStudio&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Worlds%20with%20identity%20%C2%B7%20Systems%20with%20purpose%20%C2%B7%20Stories%20with%20atmosphere&descSize=17&descAlignY=62&descColor=A7F3D0" width="100%" alt="X1miyaStudio Header" />
 
 <p align="center">
-  <b>Независимая авторская лаборатория и креативная студия.</b><br/>
-  Создаём законченные проекты Minecraft Java &amp; Bedrock, экспериментальные механики, головоломки и оригинальные вселенные на стыке науки, философии и искусства.
+  <img src="https://img.shields.io/badge/Language-English-00FF88?style=flat-square" alt="English" />
+  <a href="https://github.com/X1miyaStudio/.github/blob/main/profile/README_RU.md">
+    <img src="https://img.shields.io/badge/%D0%AF%D0%B7%D1%8B%D0%BA-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-0D1117?style=flat-square&logo=googletranslate&logoColor=white" alt="Русская версия" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Independent creative laboratory &amp; development studio.</b><br/>
+  Building complete Minecraft Java &amp; Bedrock projects, experimental gameplay systems, puzzle worlds, and original universes at the intersection of science, philosophy, and art.
 </p>
 
 <!-- Platform Badges -->
@@ -34,35 +41,49 @@
 
 </div>
 
+<details>
+<summary><b>🇷🇺 Читать краткий обзор студии на русском (или <a href="https://github.com/X1miyaStudio/.github/blob/main/profile/README_RU.md">открыть полную русскую версию</a>)</b></summary>
+
+<br/>
+
+**X1miyaStudio** — независимая авторская лаборатория и студия разработки контента для **Minecraft Java & Bedrock**.
+* **Системный инжиниринг:** математика на скорбордах, строгая NBT-структура и чистые алгоритмы для `1.21+` и Bedrock.
+* **Визуал и продакшн:** `Item Display`, частицы, *Animated Java*, ручной пиксель-арт без ИИ-обложек, двуязычные релизы (`EN + RU`).
+* **Проекты:** *Lactose*, *Visual Drops & Cosmetics*, *Explosion Item v2*, *Acid Rain*, *Artisan's Sockets*, *QuickStack+*, *Better Blast Furnace*, *Better Furnaces (Bedrock)*, карты *Secret Hidden Buttons* и *Комбинация*, *Chemistry Teleport*.
+
+Полная версия этой страницы со всеми бейджами, карточками и командой: [**profile/README_RU.md**](https://github.com/X1miyaStudio/.github/blob/main/profile/README_RU.md)
+
+</details>
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### ⚗️ Манифест студии / Studio Principles
+### ⚗️ Studio Principles
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🔬 Системный инжиниринг</h3>
-      <p>Никакого хаотичного кода. Проекты строятся на математических скорбордах, строгой NBT-структуре, оптимизации тиков и чистых алгоритмах для <b>Minecraft Java 1.21+ и Bedrock</b>.</p>
+      <h3>🔬 Systems Engineering</h3>
+      <p>No chaotic spaghetti logic. Projects are built on scoreboard mathematics, strict NBT/component structure, tick optimization, and clean algorithms for <b>Minecraft Java 1.21+ &amp; Bedrock</b>.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🎨 Визуальный язык</h3>
-      <p>Передовое использование <i>Item Display</i>, эффектов частиц, ручного пиксель-арта и моделей <i>Animated Java</i>. Физика падения предметов, плавные анимации и интерактивный отклик мира.</p>
+      <h3>🎨 Visual Language</h3>
+      <p>Extensive use of <i>Item Display</i>, particle choreography, handcrafted pixel-art, and <i>Animated Java</i> rigs. Physical drop behavior, smooth animations, and responsive world feedback.</p>
     </td>
     <td width="33%" align="center">
-      <h3>📜 Целостность и продакшн</h3>
-      <p>Каждый релиз готов для игроков — не прототипы. Проработанные деревья достижений, двуязычная документация (EN/RU), инфографики и медиа-материалы.</p>
+      <h3>📜 Production Integrity</h3>
+      <p>Every release is built for real players — not half-finished prototypes. Complete advancement trees, bilingual documentation (EN/RU), custom infographics, and curated media assets.</p>
     </td>
   </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### 🧪 Синтезированные проекты / Studio Showcase
+### 🧪 Studio Showcase
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🥛 Lactose (Непереносимость лактозы)</h3>
+      <h3 align="center">🥛 Lactose Intolerance</h3>
       <p align="center">
         <a href="https://github.com/X1miyaStudio/Lactose">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
@@ -77,7 +98,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Биохимическая система пищеварения (v2.0.1, Minecraft 1.16.5–26.3+, EN + RU): реакции организма на молоко, фазы адаптации, выработка толерантности, безлактозные рецепты и кастомные достижения.</p>
+      <p>Biochemical digestion mechanics (v2.0.1, Minecraft 1.16.5–26.3+, EN + RU): per-player milk reactions, tolerance adaptation, challenge mode, lactose-free recipes, and custom advancements.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✨ Visual Drops &amp; Cosmetics</h3>
@@ -95,7 +116,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Замена стандартного дропа на объёмные 3D-модели <i>Item Display</i> (v2.0.0, Minecraft 1.20.5–26.3+, EN + RU) с естественной физикой укладки на поверхность, защитой от деспавна и ключом XS Lock Key.</p>
+      <p>Replaces standard drops with grounded 3D <i>Item Display</i> models (v2.0.0, Minecraft 1.20.5–26.3+, EN + RU) featuring surface physics, metadata preservation, despawn locking, and the XS Lock Key.</p>
     </td>
   </tr>
   <tr>
@@ -115,7 +136,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Нестабильный лут (v2.0.0, Minecraft 1.21.11, EN + RU): выброшенные предметы тикают с растущей частотой, отсчитывают таймер и зрелищно детонируют при срабатывании или контакте с водой.</p>
+      <p>Unstable loot mechanics (v2.0.0, Minecraft 1.21.11, EN + RU): dropped items arm with accelerating ticks and fuse effects, scaling explosion intensity by item rarity and stack size.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌧️ Acid Rain</h3>
@@ -130,7 +151,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Кислотные осадки (v1.0.0, Minecraft 1.21.11, EN + RU): агрессивная погода с коррозией брони, предупреждениями, частицами, звуковым дизайном и крафтовым комплектом химзащиты.</p>
+      <p>Hazardous precipitation survival overhaul (v1.0.0, Minecraft 1.21.11, EN + RU): configurable acid storms, armor durability corrosion, shelter detection, and a 4-piece chemical protection armor set.</p>
     </td>
   </tr>
   <tr>
@@ -147,7 +168,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Система гнёзд и инкрустации (v1.0.0, Minecraft 1.21.11, EN + RU): постоянные слоты в броне и инструментах с усилением от самоцветов на наковальне (аметист, изумруд, алмаз, лазурит, кварц).</p>
+      <p>Anvil gemstone socketing system (v1.0.0, Minecraft 1.21.11, EN + RU): infuse tools, weapons, and armor with permanent specialized bonuses from quartz, amethyst, diamond, emerald, or lapis.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎒 QuickStack+</h3>
@@ -162,7 +183,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Быстрая сортировка инвентаря (v1.0.0, Minecraft 1.21.11, EN + RU): мгновенный перенос совпадающих предметов в ближайшие сундуки и бочки с помощью крафтового амулета.</p>
+      <p>Instant inventory sorting (v1.0.0, Minecraft 1.21.11, EN + RU): use the craftable Sorting Amulet to quick-stack matching items into nearby chests and barrels within 16 blocks with zero passive tick load.</p>
     </td>
   </tr>
   <tr>
@@ -182,7 +203,7 @@
           <img src="https://img.shields.io/badge/PMC-Showcase-2ECC71?style=flat-square" />
         </a>
       </p>
-      <p>Органичное расширение ванильной плавильной печи (v2.0, Minecraft 1.14–1.21+): 46 логичных высокотемпературных рецептов плавки металлов, сплавов, камня и строительных материалов.</p>
+      <p>Natural expansion of the vanilla Blast Furnace (v2.0, Minecraft 1.14–26.3+): 47 logically consistent high-temperature smelting recipes for metals, stone, glass, terracotta, and gear recycling.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧱 Better Furnaces (Bedrock)</h3>
@@ -194,7 +215,7 @@
           <img src="https://img.shields.io/badge/CurseForge-Bedrock-F16436?style=flat-square&logo=curseforge&logoColor=white" />
         </a>
       </p>
-      <p>Крупная переработка плавки для <b>Minecraft Bedrock 1.21+</b> (v2.0.0, <code>.mcpack</code>): 190 новых рецептов переплавки для плавильной печи (×2 скорость), обычной печи, коптильни и костров.</p>
+      <p>Complete smelting overhaul for <b>Minecraft Bedrock 1.21+</b> (v2.0.0, <code>.mcpack</code>): 190 new smelting recipes across Blast Furnace (2× speed), Furnace, Smoker, and Campfires.</p>
     </td>
   </tr>
   <tr>
@@ -214,10 +235,10 @@
           <img src="https://img.shields.io/badge/Minecraft_Inside-RU-brightgreen?style=flat-square" />
         </a>
       </p>
-      <p>Приключенческая карта поиска скрытых кнопок (v2.2, Minecraft 1.21.11, EN + RU) с 5 отдельными паками риггинга и анимаций <i>Animated Java</i>, механикой зрительной трубы и диалогами с NPC.</p>
+      <p>Adventure Find-the-Button map (v2.2, Minecraft 1.21.11, EN + RU) featuring 5 separate <i>Animated Java</i> character rig &amp; animation packs, custom spyglass interactions, and NPC dialogues.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 Комбинация (Combination)</h3>
+      <h3 align="center">🧩 Combination (Комбинация)</h3>
       <p align="center">
         <a href="https://github.com/X1miya/combination">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
@@ -229,7 +250,7 @@
           <img src="https://img.shields.io/badge/Minecraft_Inside-RU-brightgreen?style=flat-square" />
         </a>
       </p>
-      <p>Логическая карта-головоломка на запоминание последовательностей (v1.2.1, Minecraft 1.21.11, EN + RU) с кастомной скорборд-математикой, анимациями и ветками достижений.</p>
+      <p>Sequence-memory puzzle game map (v1.2.1, Minecraft 1.21.11, EN + RU) built on custom scoreboard mathematics, visual round animations, and secret advancement branches.</p>
     </td>
   </tr>
   <tr>
@@ -240,32 +261,32 @@
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
         </a>
       </p>
-      <p align="center">Кинематографичный портал с покадровой VFX-анимацией затягивания (200 кадров) и звуковым дизайном для видео «День №7 ФИНАЛ».</p>
+      <p align="center">Cinematic portal datapack featuring a 200-frame particle vortex pull animation and custom sound choreography.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🧬 В разработке / Studio Laboratory (WIP)
+### 🧬 Studio Laboratory (WIP)
 
-```
-├── 🧪 Twin Trials: Гонка Испытаний -------- Соревновательная дуэльная карта на двоих игроков (финишная полировка)
-├── ⚡ Симулятор Флеша V2.0 ---------------- Карта суперскорости: механики бега, прокачка и уровни (финальный QA)
-├── 🎙️ Угадай Майнкрафтера по голосу V3.0 -- Интерактивная голосовая викторина (тестирование и релиз)
-└── 🟢 Модерация датапаков ----------------- Проверка Acid Rain, Artisan's Sockets и QuickStack+ на Modrinth, Better Furnaces (Bedrock) на MCPEHUB
+```text
+├── 🧪 Twin Trials: Race of Trials ---------- Competitive 2-player duel challenge map (final polish)
+├── ⚡ Flash Simulator V2.0 ----------------- Super-speed progression & abilities map (final QA)
+├── 🎙️ Guess the YouTuber by Voice V3.0 ----- Interactive audio quiz overhaul (testing & release)
+└── 🟢 Platform Review ---------------------- Modrinth re-review for Acid Rain, Artisan's Sockets & QuickStack+
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
 
-### 👥 Команда студии / The Team
+### 👥 The Team
 
 <div align="center">
 
-| Участник | Роль | Профиль |
+| Member | Role | Profile |
 |:---:|:---:|:---:|
-| <a href="https://github.com/X1miya"><img src="https://avatars.githubusercontent.com/u/88452112?v=4" width="70" style="border-radius:50%" /><br/><b>X1miya</b></a> | **Основатель, системный архитектор &amp; лид-разработчик** | [![GitHub](https://img.shields.io/badge/GitHub-X1miya-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/X1miya) |
-| <a href="https://github.com/PhysicsP"><img src="https://avatars.githubusercontent.com/u/216409508?v=4" width="70" style="border-radius:50%" /><br/><b>PhysicsP</b></a> | **Ключевой разработчик студии** | [![GitHub](https://img.shields.io/badge/GitHub-PhysicsP-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/PhysicsP) |
+| <a href="https://github.com/X1miya"><img src="https://avatars.githubusercontent.com/u/88452112?v=4" width="70" style="border-radius:50%" /><br/><b>X1miya</b></a> | **Founder, Systems Architect &amp; Lead Developer** | [![GitHub](https://img.shields.io/badge/GitHub-X1miya-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/X1miya) |
+| <a href="https://github.com/PhysicsP"><img src="https://avatars.githubusercontent.com/u/216409508?v=4" width="70" style="border-radius:50%" /><br/><b>PhysicsP</b></a> | **Core Studio Developer** | [![GitHub](https://img.shields.io/badge/GitHub-PhysicsP-00FF88?style=flat-square&logo=github&logoColor=black)](https://github.com/PhysicsP) |
 
 </div>
 
@@ -275,6 +296,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,35:059669,70:064E3B,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
 
-**Связь:** [x1miyastudio@gmail.com](mailto:x1miyastudio@gmail.com) · © 2026 **X1miyaStudio**
+**Contact:** [x1miyastudio@gmail.com](mailto:x1miyastudio@gmail.com) · © 2026 **X1miyaStudio**
 
 </div>
