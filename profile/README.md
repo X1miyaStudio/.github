@@ -238,7 +238,7 @@
       <p>Adventure Find-the-Button map (v2.2, Minecraft 1.21.11, EN + RU) featuring 5 separate <i>Animated Java</i> character rig &amp; animation packs, custom spyglass interactions, and NPC dialogues.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 Combination (Комбинация)</h3>
+      <h3 align="center">🧩 Combination</h3>
       <p align="center">
         <a href="https://github.com/X1miya/combination">
           <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
