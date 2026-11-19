@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Независимая авторская лаборатория и креативная студия.</b><br/>
-  Создаём законченные проекты Minecraft Java &amp; Bedrock, экспериментальные механики, головоломки и оригинальные вселенные на стыке науки, философии и искусства.
+  Создаём законченные проекты для Minecraft Java, Bedrock и Dungeons II, экспериментальные механики, головоломки и оригинальные вселенные на стыке науки, философии и искусства.
 </p>
 
 <!-- Platform Badges -->
@@ -206,6 +206,34 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">⏱️ Realtime Clock Overlay (MD2)</h3>
+      <p align="center">
+        <a href="https://github.com/X1miyaStudio/Realtime-Clock-MD2">
+          <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://github.com/X1miyaStudio/Realtime-Clock-MD2/releases/tag/v1.0.0">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/CurseForge-%D0%9D%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-F16436?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge на модерации" />
+      </p>
+      <p>Настраиваемый оверлей реального времени для <b>Minecraft Dungeons II</b> (v1.0.0, UE 5.6 / NeoRune): рамка в стиле игры, 12ч/24ч форматы, секунды, 5 позиций, настройка цвета и меню Blueprint Loader 2.0+.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Sprint Momentum (MD2)</h3>
+      <p align="center">
+        <a href="https://github.com/X1miyaStudio/Sprint-Momentum-MD2">
+          <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases/tag/v1.0.0">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/CurseForge-%D0%9D%D0%B0_%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8-F16436?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge на модерации" />
+      </p>
+      <p>Мгновенный спринт, умная стамина и таран врагов на разгоне для <b>Minecraft Dungeons II</b> (v1.0.0, UE 5.6 / NeoRune): 3 стиля спринта, защита от траты стамины у стен, урон/отбрасывание через GAS и сегментный HUD.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🔘 Secret Hidden Buttons</h3>
       <p align="center">
         <a href="https://github.com/X1miya/Secret-Hidden-Buttons">
@@ -260,7 +288,7 @@
 ├── 🧪 Twin Trials: Гонка Испытаний -------- Соревновательная дуэльная карта на двоих игроков (финишная полировка)
 ├── ⚡ Симулятор Флеша V2.0 ---------------- Карта суперскорости: механики бега, прокачка и уровни (финальный QA)
 ├── 🎙️ Угадай Майнкрафтера по голосу V3.0 -- Интерактивная голосовая викторина (тестирование и релиз)
-└── 🟢 Модерация датапаков ----------------- Проверка Acid Rain, Artisan's Sockets и QuickStack+ на Modrinth, Better Furnaces (Bedrock) на MCPEHUB
+└── 🟢 Модерация площадок ------------------ Modrinth (Acid Rain, Artisan's Sockets, QuickStack+), MCPEHUB (Better Furnaces Bedrock) и CurseForge MD2 (Realtime Clock Overlay, Sprint Momentum)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />

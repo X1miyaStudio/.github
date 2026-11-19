@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>Independent creative laboratory &amp; development studio.</b><br/>
-  Building complete Minecraft Java &amp; Bedrock projects, experimental gameplay systems, puzzle worlds, and original universes at the intersection of science, philosophy, and art.
+  Building complete Minecraft Java, Bedrock &amp; Dungeons II projects, experimental gameplay systems, puzzle worlds, and original universes at the intersection of science, philosophy, and art.
 </p>
 
 <!-- Platform Badges -->
@@ -46,10 +46,10 @@
 
 <br/>
 
-**X1miyaStudio** — независимая авторская лаборатория и студия разработки контента для **Minecraft Java & Bedrock**.
-* **Системный инжиниринг:** математика на скорбордах, строгая NBT-структура и чистые алгоритмы для `1.21+` и Bedrock.
+**X1miyaStudio** — независимая авторская лаборатория и студия разработки контента для **Minecraft Java, Bedrock и Dungeons II**.
+* **Системный инжиниринг:** математика на скорбордах, строгая NBT-структура и чистые алгоритмы для `1.21+`, Bedrock и **Minecraft Dungeons II** (UE 5.6 / NeoRune).
 * **Визуал и продакшн:** `Item Display`, частицы, *Animated Java*, ручной пиксель-арт без ИИ-обложек, двуязычные релизы (`EN + RU`).
-* **Проекты:** *Lactose*, *Visual Drops & Cosmetics*, *Explosion Item v2*, *Acid Rain*, *Artisan's Sockets*, *QuickStack+*, *Better Blast Furnace*, *Better Furnaces (Bedrock)*, карты *Secret Hidden Buttons* и *Комбинация*, *Chemistry Teleport*.
+* **Проекты:** *Lactose*, *Visual Drops & Cosmetics*, *Explosion Item v2*, *Acid Rain*, *Artisan's Sockets*, *QuickStack+*, *Better Blast Furnace*, *Better Furnaces (Bedrock)*, моды для MD2 (*Realtime Clock Overlay*, *Sprint Momentum*), карты *Secret Hidden Buttons* и *Комбинация*, *Chemistry Teleport*.
 
 Полная версия этой страницы со всеми бейджами, карточками и командой: [**profile/README_RU.md**](https://github.com/X1miyaStudio/.github/blob/main/profile/README_RU.md)
 
@@ -220,6 +220,34 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">⏱️ Realtime Clock Overlay (MD2)</h3>
+      <p align="center">
+        <a href="https://github.com/X1miyaStudio/Realtime-Clock-MD2">
+          <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://github.com/X1miyaStudio/Realtime-Clock-MD2/releases/tag/v1.0.0">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/CurseForge-Under_Review-F16436?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge Under Review" />
+      </p>
+      <p>Customizable real-time clock HUD overlay for <b>Minecraft Dungeons II</b> (v1.0.0, UE 5.6 / NeoRune): native-styled frame, 12h/24h formats, seconds, 5 anchors, custom colors, and Blueprint Loader 2.0+ settings.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Sprint Momentum (MD2)</h3>
+      <p align="center">
+        <a href="https://github.com/X1miyaStudio/Sprint-Momentum-MD2">
+          <img src="https://img.shields.io/badge/GitHub-Public_Release-00FF88?style=flat-square&logo=github&logoColor=black" />
+        </a>
+        <a href="https://github.com/X1miyaStudio/Sprint-Momentum-MD2/releases/tag/v1.0.0">
+          <img src="https://img.shields.io/badge/Release-v1.0.0-181717?style=flat-square&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/CurseForge-Under_Review-F16436?style=flat-square&logo=curseforge&logoColor=white" alt="CurseForge Under Review" />
+      </p>
+      <p>Instant sprint, stamina management, and high-momentum enemy ramming for <b>Minecraft Dungeons II</b> (v1.0.0, UE 5.6 / NeoRune): 3 sprint styles, wall-safe stamina, GAS damage/knockback, and native-styled segmented HUD.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🔘 Secret Hidden Buttons</h3>
       <p align="center">
         <a href="https://github.com/X1miya/Secret-Hidden-Buttons">
@@ -274,7 +302,7 @@
 ├── 🧪 Twin Trials: Race of Trials ---------- Competitive 2-player duel challenge map (final polish)
 ├── ⚡ Flash Simulator V2.0 ----------------- Super-speed progression & abilities map (final QA)
 ├── 🎙️ Guess the YouTuber by Voice V3.0 ----- Interactive audio quiz overhaul (testing & release)
-└── 🟢 Platform Review ---------------------- Modrinth re-review for Acid Rain, Artisan's Sockets & QuickStack+
+└── 🟢 Platform Review ---------------------- Modrinth re-review (Acid Rain, Artisan's Sockets, QuickStack+) & CurseForge MD2 moderation (Realtime Clock Overlay, Sprint Momentum)
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF88,100:0D1117&height=25&section=header" width="100%" alt="divider" />
