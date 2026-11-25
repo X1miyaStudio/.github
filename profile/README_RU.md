@@ -310,6 +310,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,35:059669,70:064E3B,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />
 
-**Связь:** [x1miyastudio@gmail.com](mailto:x1miyastudio@gmail.com) · © 2026 **X1miyaStudio**
+**Связь:** [x1miyastudio@gmail.com](mailto:x1miyastudio@gmail.com) · © 2023–2026 **X1miyaStudio**
 
 </div>
